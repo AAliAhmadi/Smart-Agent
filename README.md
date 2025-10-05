@@ -80,7 +80,9 @@ This project was inspired by the lectures of Bharath Thippireddy.
 
 ---
 
-## 🧠 Remark: This is a demo. I used gemma3:4b here. If its too heavy and slow, try using a lighter model like gemma:2b.
+## 🧠 Remark: 
+
+This is a demo. I used gemma3:4b here. If its too heavy and slow, try using a lighter model like gemma:2b.
 
 
 ## 📄 License
