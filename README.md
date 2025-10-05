@@ -73,7 +73,7 @@ If not, it answers locally but notes that info might be outdated.
 
 Use the 🗑️ Clear Chat History button to reset the conversation.
 
-
+---
 
 ## 🙏 Acknowledgement
 This project was inspired by the lectures of Bharath Thippireddy.
