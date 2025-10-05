@@ -75,21 +75,17 @@ Use the 🗑️ Clear Chat History button to reset the conversation.
 
 
 
-## Acknowledgement
-🙏 This project was inspired by the lectures of Bharath Thippireddy.
+## 🙏 Acknowledgement
+This project was inspired by the lectures of Bharath Thippireddy.
 
 ---
+
+## 🧠 Remark: This is a demo. I used gemma3:4b here. If its too heavy and slow, try using a lighter model like gemma:2b.
+
 
 ## 📄 License
 
 MIT License © 2025 AAli Ahmadi
-
-✅ **Summary of Improvements**
-- Cleaner modular structure (`main`, `logic`, `prompts`, `utils`)
-- Visible chat history  
-- “🗑️ Clear Chat History” button  
-- Ready for both **local** (Gemma) and **cloud** (GPT/OpenAI) modes  
-- Updated, professional README  
 
 ---
 
