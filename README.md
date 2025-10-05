@@ -31,18 +31,8 @@ README.md
 ```
 
 
----
-
-## 🧩 Installation (Local)
-
-### 1️⃣ Install Ollama
-Install [Ollama](https://ollama.com/download) and pull Gemma:
-
-```bash
-ollama pull gemma3:4b
 
 
----
 
 ## 🧩 Installation (Local)
 
@@ -68,7 +58,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app/main.py
 
----
 
 ## 🧠 Usage
 
@@ -82,12 +71,12 @@ If not, it answers locally but notes that info might be outdated.
 
 Use the 🗑️ Clear Chat History button to reset the conversation.
 
----
+
 
 ## Acknowledgement
 🙏 This project was inspired by the lectures of Bharath Thippireddy.
 
----
+
 
 ## 📄 License
 
