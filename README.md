@@ -41,23 +41,25 @@ Install [Ollama](https://ollama.com/download) and pull Gemma:
 
 ```bash
 ollama pull gemma3:4b
-
+```
 
 ### 2️⃣ Clone the repository
 ```bash
 git clone https://github.com/AAliAhmadi/smart-agent.git
 cd smart-agent
+```
 
 ### 3️⃣ Set up environment
 ```bash
 python -m venv .venv
 source .venv/bin/activate   # (Windows: .venv\Scripts\activate)
 pip install -r requirements.txt
+```
 
 ### 4️⃣ Run locally
 ```bash
 streamlit run app/main.py
-
+```
 
 ## 🧠 Usage
 
