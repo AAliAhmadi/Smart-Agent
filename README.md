@@ -45,7 +45,7 @@ ollama pull gemma3:4b
 
 ### 2️⃣ Clone the repository
 ```bash
-git clone https://github.com/AAliAhmadi/smart-agent.git
+git clone https://github.com/AAliAhmadi/Smart-Agent.git
 cd smart-agent
 ```
 
