@@ -78,7 +78,7 @@ Use the 🗑️ Clear Chat History button to reset the conversation.
 ## Acknowledgement
 🙏 This project was inspired by the lectures of Bharath Thippireddy.
 
-
+---
 
 ## 📄 License
 
